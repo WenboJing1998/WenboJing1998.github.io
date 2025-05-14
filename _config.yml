@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenbo Jing's Website"
+title                    : "Wenbo Jing's Homepage"
 title_separator          : "-"
 name                     : &name "Wenbo Jing"
 description              : &description "personal description"
