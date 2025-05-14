@@ -29,7 +29,7 @@ My research lies at the intersection of **statistical methodology**, **machine l
 *Journal of Statistical Computation and Simulation*, 94(4), 820–842, 2024.
 
 [4] Elynn Chen, Xi Chen, **Wenbo Jing** (*alphabetical*).  
-[**Data-Driven Knowledge Transfer in Batch $Q^*$ Learning**](https://arxiv.org/abs/2404.15209).  
+[**Data-Driven Knowledge Transfer in Batch Q\* Learning**](https://arxiv.org/abs/2404.15209).  
 *Under major revision at Journal of the American Statistical Association (Theory and Methods).*
 
 [5] Elynn Chen, Xi Chen, **Wenbo Jing**, Xiao Liu, Linjun Zhang (*alphabetical*).  
