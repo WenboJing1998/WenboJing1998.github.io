@@ -12,31 +12,31 @@ I am a fifth-year Ph.D. candidate in the [Department of Technology, Operations, 
 My research lies at the intersection of **statistical methodology**, **machine learning**, and **data-driven decision-making**. I am particularly interested in developing statistical estimation and inference frameworks for analyzing **heterogeneous data** arising from multiple different sources. This includes advancing methods in **distributed learning**, **transfer learning**, and **reinforcement learning**, with a focus on addressing challenges such as data heterogeneity and task discrepancy. I am also engaged in research on **tensor decomposition**, **multi-armed bandit algorithms**, **longitudinal data analysis**, and **tree-based models**, improving computational efficiency and theoretical guarantees in high-dimensional or structured settings.
 
 
-## Publications and Manuscripts
+## Publications and Preprints
 
-[1] Elynn Chen, Xi Chen, **Wenbo Jing**, Yichen Zhang (*alphabetical*).  
+[1] Elynn Chen, Xi Chen, **Wenbo Jing**, Xiao Liu, Linjun Zhang (*alphabetical*).  
+[**Stochastic Linear Bandits with Latent Heterogeneity**](https://arxiv.org/abs/2502.00423).   
+*arXiv preprint*, 2025.
+
+[2] Elynn Chen, Xi Chen, **Wenbo Jing** (*alphabetical*).  
+[**Data-Driven Knowledge Transfer in Batch Q\* Learning**](https://arxiv.org/abs/2404.15209).   
+*arXiv preprint*, 2025.
+* Under major revision at Journal of the American Statistical Association (Theory and Methods)
+* Winner of the 2025 NESS Student Paper Award
+
+[3] Elynn Chen, Xi Chen, **Wenbo Jing**, Yichen Zhang (*alphabetical*).  
 [**Distributed Tensor Principal Component Analysis with Data Heterogeneity**](https://arxiv.org/abs/2405.11681).  
 *Journal of the American Statistical Association (Theory and Methods, to appear)*, 2025.  
 * Winner of the 2025 IMS Hannan Graduate Student Travel Award  
 * Winner of the 2024 NESS Student Poster Award
 
-[2] Xi Chen, **Wenbo Jing**, Weidong Liu, Yichen Zhang (*alphabetical*).  
+[4] Xi Chen, **Wenbo Jing**, Weidong Liu, Yichen Zhang (*alphabetical*).  
 [**Distributed Estimation and Inference for Semi-parametric Binary Response Models**](https://arxiv.org/abs/2210.08393).  
 *The Annals of Statistics*, 52(3), 922–947, 2024.
 
-[3] **Wenbo Jing**, Jeffrey Simonoff.  
+[5] **Wenbo Jing**, Jeffrey Simonoff.  
 [**A regression tree method for longitudinal and clustered data with multivariate responses**](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2273966).  
 *Journal of Statistical Computation and Simulation*, 94(4), 820–842, 2024.
-
-[4] Elynn Chen, Xi Chen, **Wenbo Jing** (*alphabetical*).  
-[**Data-Driven Knowledge Transfer in Batch Q\* Learning**](https://arxiv.org/abs/2404.15209).  
-*Under major revision at Journal of the American Statistical Association (Theory and Methods).*
-
-[5] Elynn Chen, Xi Chen, **Wenbo Jing**, Xiao Liu, Linjun Zhang (*alphabetical*).  
-[**Stochastic Linear Bandits with Latent Heterogeneity**](https://arxiv.org/abs/2502.00423).  
-*Submitted to Operations Research.*
-
-
 
 ## Teaching
 
