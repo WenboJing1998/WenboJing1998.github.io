@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![bio](https://github.com/WenboJing1998/WenboJing1998.github.io/blob/master/images/bio-photo.jpg)
 
-![wenbo](https://github.com/WenboJing1998/WenboJing1998.github.io/blob/master/images/IMG_0994.png)
+<!--- ![wenbo](https://github.com/WenboJing1998/WenboJing1998.github.io/blob/master/images/IMG_0994.png)-->
 
 ## About Me
 
