@@ -22,7 +22,7 @@ repository               : "WenboJing1998/WenboJing1998.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0994.png"
+  avatar           : #"IMG_0994.png"
   name             : "Wenbo Jing"
   pronouns         : # example: "she/her"  
   bio              : #""
