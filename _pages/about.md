@@ -12,9 +12,9 @@ I am a fifth-year Ph.D. candidate in the [Department of Technology, Operations, 
 My research lies at the intersection of **statistical methodology**, **machine learning**, and **data-driven decision-making**. I am particularly interested in developing statistical estimation and inference frameworks for analyzing **heterogeneous data** arising from multiple different sources. This includes advancing methods in **distributed learning**, **transfer learning**, and **reinforcement learning**, with a focus on addressing challenges such as data heterogeneity and task discrepancy. I am also engaged in research on **tensor decomposition**, **multi-armed bandit algorithms**, **longitudinal data analysis**, and **tree-based models**, improving computational efficiency and theoretical guarantees in high-dimensional or structured settings.
 
 
-## Publications and Preprints
+<!--- (## Publications and Preprints)
 
-[1] Elynn Chen, Xi Chen, **Wenbo Jing**, Xiao Liu, Linjun Zhang (*alphabetical*).  
+[//]: # [1] Elynn Chen, Xi Chen, **Wenbo Jing**, Xiao Liu (*alphabetical*).  
 [**Stochastic Linear Bandits with Latent Heterogeneity**](https://arxiv.org/abs/2502.00423).   
 *arXiv preprint*, 2025.
 
@@ -36,9 +36,9 @@ My research lies at the intersection of **statistical methodology**, **machine l
 
 [5] **Wenbo Jing**, Jeffrey Simonoff.  
 [**A regression tree method for longitudinal and clustered data with multivariate responses**](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2273966).  
-*Journal of Statistical Computation and Simulation*, 94(4), 820–842, 2024.
+*Journal of Statistical Computation and Simulation*, 94(4), 820–842, 2024.) -->
 
-## Teaching
+<!--- ## Teaching
 
 **Spring 2025**  
 Teaching Fellow for COR-GB 1305 EXE 86 *Statistics & Data Analysis*
@@ -65,9 +65,9 @@ Teaching Fellow for SHBI-GB.7300.B91 *Statistics & Data Analysis*
 Lecturer for STAT-UB 103 *Statistics for Business Control & Regression and Forecasting Models*  
 Teaching Fellow for XBA1-GB 8120 *Modern Artificial Intelligence*
 
----
+--- -->
 
-## Talks
+<!--- ## Talks
 
 **12/2024**  
 IMS International Conference on Statistics and Data Science, Nice
@@ -92,8 +92,7 @@ Stern School of Business, New York University, New York
 Joint Statistical Meetings, Toronto
 
 **04/2022**  
-Stern School of Business, New York University, New York
-
+Stern School of Business, New York University, New York  -->
 
 
 
