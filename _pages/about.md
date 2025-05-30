@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![](https://github.com/WenboJing1998/WenboJing1998.github.io/blob/master/images/IMG_0994.png)
+
 ## About Me
 
 
