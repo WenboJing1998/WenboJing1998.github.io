@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![bio](https://github.com/WenboJing1998/WenboJing1998.github.io/blob/master/images/bio-photo.jpg)
+
+<img src='/images/500x300.png'>
 
 <!--- ![wenbo](https://github.com/WenboJing1998/WenboJing1998.github.io/blob/master/images/IMG_0994.png)-->
 
