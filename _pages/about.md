@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-<img src="your-photo.jpg" alt="Wenbo Jing" width="200" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+<img src="IMG_0994.jpg" alt="Wenbo Jing" width="200" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
 
 <div>
 
