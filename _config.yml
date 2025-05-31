@@ -23,7 +23,7 @@ repository               : "WenboJing1998/WenboJing1998.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Wenbo Jing"
+  name             : #"Wenbo Jing"
   pronouns         : # example: "she/her"  
   bio              : #""
   location         : "New York"
