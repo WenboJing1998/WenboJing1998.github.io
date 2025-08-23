@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page-tnr { font-family: "Times New Roman", Times, serif; }
+</style>
+<div class="page-tnr">
+
 <img src='/images/IMG_0994.png'>
 
 
@@ -123,7 +128,7 @@ Stern School of Business, New York University, New York  -->
 
 
 
-
+</div>
 
 
 
