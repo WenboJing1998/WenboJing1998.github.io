@@ -49,11 +49,6 @@
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Ccircle cx='1' cy='1' r='1' fill='%23cccccc'/%3E%3C/svg%3E");
     background-size: auto; 
   }
-  .page, .page__content {
-    background: rgba(255,255,255,0.95);
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-  }
 }
 
 
@@ -62,11 +57,6 @@
   html.dark body, body.dark, [data-theme="dark"] body {
     background: #0f1220; 
     background-image: none;
-  }
-  .page, .page__content {
-    background: rgba(22,26,43,0.65);
-    box-shadow: none;
-    border-radius: 8px;
   }
 }
 
