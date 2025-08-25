@@ -67,22 +67,25 @@ h4, h5, h6 {
   font-family: "Spectral", serif;
 }
 
-body {
-  background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%);
-}
-
 .page, .page__content {
   background: rgba(255,255,255,0.92);
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: linear-gradient(180deg, #0f1220 0%, #161a2b 100%);
-  }
-  .page, .page__content {
-    background: rgba(22,26,43,0.6);
-    box-shadow: none;
-  }
+/* 浅色模式 */
+@media (prefers-color-scheme: light) {
+  html, body { background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%) !important; }
 }
+
+/* 深色模式 */
+@media (prefers-color-scheme: dark) {
+  html, body,
+  html.dark body, body.dark, [data-theme="dark"] body {
+    background: linear-gradient(180deg, #0f1220 0%, #161a2b 100%) !important;
+  }
+  /* 深色下容器半透明 */
+  .page, .page__content { background: rgba(22,26,43,0.65); box-shadow: none; }
+}
+
+
