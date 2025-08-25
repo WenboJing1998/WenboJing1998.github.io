@@ -67,12 +67,6 @@ h4, h5, h6 {
   font-family: "Spectral", serif;
 }
 
-.page, .page__content {
-  background: rgba(255,255,255,0.92);
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-}
-
 /* 浅色模式 */
 @media (prefers-color-scheme: light) {
   html, body { background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%) !important; }
