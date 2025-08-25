@@ -41,3 +41,48 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;500;600;700&display=swap');
+
+html, body {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+}
+
+
+h1, h2, h3 {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+}
+h4, h5, h6 {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+}
+
+.site-title,
+.page-title, .page__title, .page__subtitle,
+.masthead, .nav, .sidebar,
+.page, .page__content, .archive__item-title {
+  font-family: "Spectral", serif;
+}
+
+body {
+  background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%);
+}
+
+.page, .page__content {
+  background: rgba(255,255,255,0.92);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: linear-gradient(180deg, #0f1220 0%, #161a2b 100%);
+  }
+  .page, .page__content {
+    background: rgba(22,26,43,0.6);
+    box-shadow: none;
+  }
+}
