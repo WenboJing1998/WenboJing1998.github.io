@@ -67,19 +67,12 @@ h4, h5, h6 {
   font-family: "Spectral", serif;
 }
 
-/* 浅色模式 */
-@media (prefers-color-scheme: light) {
-  html, body { background: linear-gradient(180deg, #ffffff 0%, #f7f9fc 100%) !important; }
-}
-
-/* 深色模式 */
-@media (prefers-color-scheme: dark) {
-  html, body,
-  html.dark body, body.dark, [data-theme="dark"] body {
-    background: linear-gradient(180deg, #0f1220 0%, #161a2b 100%) !important;
-  }
-  /* 深色下容器半透明 */
-  .page, .page__content { background: rgba(22,26,43,0.65); box-shadow: none; }
+body {
+  background-color: #fbfbfd;
+  background-image:
+    radial-gradient(rgba(0,0,0,0.03) 1px, transparent 1px),
+    radial-gradient(rgba(0,0,0,0.02) 1px, transparent 1px);
+  background-size: 20px 20px;
 }
 
 
