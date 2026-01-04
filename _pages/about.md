@@ -16,6 +16,8 @@ redirect_from:
 I am an Assistant Professor in the Department of Decision Analytics and Operations at the College of Business, City University of Hong Kong. I earned my Ph.D. in the [Department of Technology, Operations, and Statistics](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/tops) at the Stern School of Business, New York University, where I was fortunate to be advised by Professor [Xi Chen](https://pages.stern.nyu.edu/~xchen3/), Professor [Elynn Chen](https://elynncc.github.io/), and Professor [Jeffrey Simonoff](https://pages.stern.nyu.edu/~jsimonof/). Prior to NYU Stern, I received my B.S. in Mathematics from the School of Mathematical Sciences at Peking University. 
 <!--- where I was advised by Professor [Xiangzhong Fang](https://www.stat-center.pku.edu.cn/en/People/corecher/fxz_20180710175435673424/1279074.htm) and Professor [Xiaohua Zhou](https://faculty.washington.edu/azhou/).-->
 
+**Email:** <wenbo.jing@cityu.edu.hk>
+
 
 ---
 
